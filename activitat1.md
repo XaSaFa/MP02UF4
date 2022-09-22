@@ -4,11 +4,11 @@ Aquesta activitat s'entregarà per GitHub, en un document MarkDown anomenat **ac
 
 Cada pas que feu l'heu de documentar dins del document amb text i captures de pantalla adients.
 
-## Fase 0: 
+## Fase 0: Instal·lació.
 
 - Tenir instal·lats PostgreSQL i Python.
 
-## Fase 1:
+## Fase 1: Crear taules i inserir dades.
 
 - Entrar al gestor de Postgre:
 
@@ -46,3 +46,5 @@ CREATE DATABASE UF4XYZ;
   - Tots els estats amb una superfície més petita que 100.000 Km2 i més gran que 20.000 Km2.
   - Totes les ciutats amb més de 1.000.000 d'habitants.
   - Totes les ciutats amb menys de 1.000.000 d'habitants i més de 650.000 habitants.
+
+## Fase 2: ...
