@@ -17,13 +17,13 @@ sudo -u postgres psql
 ```
 
 
-- Crear una base de dades anomenada: UF4XYZ, on Z, Y i Z són les teves inicials.
+- Crear una base de dades anomenada: UF4XYZ, on X, Y i Z són les teves inicials.
 
 ```
 CREATE DATABASE UF4XYZ;
 ```
 
-- Crear una taula anomenada estatsXYZ, on Z, Y i Z són les teves inicials, amb els camps següents.
+- Crear una taula anomenada estatsXYZ, on X, Y i Z són les teves inicials, amb els camps següents.
   - id: nombre sencer, clau primària, autoincrementable.
   - nom: text.
   - superficie: nombre sencer.
@@ -31,7 +31,7 @@ CREATE DATABASE UF4XYZ;
 - Afegir a la base de dades estatsXYZ els [estats de EEUU](https://www.sport-histoire.fr/es/Geografia/Lista_estados_estados_unidos.php).
 
 
-- Crear una taula anomenada ciutatsXYZ, on Z, Y i Z són les teves inicials, amb els camps següents.
+- Crear una taula anomenada ciutatsXYZ, on X, Y i Z són les teves inicials, amb els camps següents.
   - id: nombre sencer, clau primària, autoincrementable.   
   - nom: text.
   - habitants: nombre sencer.
