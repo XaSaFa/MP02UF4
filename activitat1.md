@@ -75,5 +75,14 @@ CREATE DATABASE UF4XYZ;
 
 - Restabliu la bbdd UF4XYZ.
 
+## Incidències:
 
+- **Problema**: Els usuaris no tenen accés a una taula.
+- **Solució**: Dones accés a l'usuari a cada taula o li dones el rol de superusuari: 
+  -    ```ALTER USER root WITH superuser```
+- **Problema**: Faig la copia de seguretat i em diu que hi ha un problema de connexió.
+- **Solució**: Executem la comanda com root:  
+  -   ```sudo su```
+  -   ```pg_dump nomBaseDades > nomFitxer.sql```
+ 
 
