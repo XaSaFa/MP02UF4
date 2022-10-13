@@ -19,10 +19,9 @@ sudo snap install pycharm-community --classic
 - [Tutorial de com utilitzar PostgreSQL des de Python](https://dungeonofbits.com/conectar-con-una-base-de-datos-postgresql-desde-python.html)
 - [Tutorials de PostgreSQL](https://www.postgresqltutorial.com/)
 
-### Activitat 1:
+### Activitats:
 
-[Enunciat](activitat1.md)
-
-
+- [Enunciat activitat 1](activitat1.md)
+- [Enunciat activitat 2](activitat2.md)
 
 
