@@ -26,13 +26,17 @@ Farem que la descripció d'una localització es vegi en color blau. (mira com fe
 
 ### PostgreSQL:
 
-Creem una taula camins, aquesta taula significa un camí d'una localització a una altra, per tant podem fer que tingui:
+Creem una taula **camins**, aquesta taula significa un camí d'una localització a una altra, per tant podem fer que tingui:
 
 - id de localització origen.
 - id de localització destí.
 - descripció: Què mostra el programa quan passem de l'origen al destí.
 
-També crearem una taula jugadors per a guardar el progrés d'un jugador.
+També crearem una taula **jugadors** per a guardar el progrés d'un jugador.
+
+- nom jugador.
+- contrasenya partida.
+- localització actual.
 
 Aquesta taula ha de guardar, de moment, la localització actual del jugador identificat per un nom de jugador i la seva contrasenya.
 
@@ -40,7 +44,15 @@ El joc ha de tenir una localització per defecte que serà la localització de s
 
 ### Python:
 
-Al programa anterior, que anomenarem **backend.py**, crearem un CRUD de localitzacions.
+Al programa anterior, que anomenarem **backend.py**, crearem un **CRUD** de localitzacions.
+
+El CRUD permet:
+
+- Mostrar una localització.
+- Crear una localització.
+- Modificar una localització.
+- Eliminar una localització.
+- Llistar totes les localitzacions.
 
 Creem un programa nou, aquest programa es dirà **adventure.py** i és el programa de joc.
 
