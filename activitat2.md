@@ -18,6 +18,6 @@ Sobre aquesta base anirem ampliant.
 
 Creem un programa que es connecta a la bbdd i que al rebre una id de localització busca a la taula localitzacions i ens mostra la descripció de la localització.
 
-Farem que la descripció d'una localització es vegi en color blau.
+Farem que la descripció d'una localització es vegi en color blau. (mira com fer-ho [aqui](https://ozzmaker.com/add-colour-to-text-in-python/)
 
 ---------------------------------------------------------------------------------------------------------------------------------------
