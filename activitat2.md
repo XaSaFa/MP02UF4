@@ -11,6 +11,7 @@ Creem una taula anomenada localitzacions, aquesta taula tindrè com a camps mín
 - id
 - nom
 - descripció
+- sortides
 
 Sobre aquesta base anirem ampliant.
 
