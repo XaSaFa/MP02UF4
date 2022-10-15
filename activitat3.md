@@ -23,8 +23,8 @@ nom a id destí. (Escales ae baixada a la planta baixa).
 
 **PREGUNTA**
 
-1.- Adjunta les comandes utilitzades per canviar la taula localitzacions.
-2.- Adjunta les comandes utilitzades per canviar la taula camins.
+1. Adjunta les comandes utilitzades per canviar la taula localitzacions.
+2. Adjunta les comandes utilitzades per canviar la taula camins.
 
 
 ### Python:
