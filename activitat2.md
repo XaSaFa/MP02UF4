@@ -28,10 +28,10 @@ Farem que la descripció d'una localització es vegi en color blau. (mira com fe
 
 Creem una taula **camins**, aquesta taula significa un camí d'una localització a una altra, per tant podem fer que tingui:
 
-- id de localització origen.
-- id de localització destí.
-- nom
-- descripció: Què mostra el programa quan passem de l'origen al destí.
+- id de localització origen. (1 - que és del vestíbol planta baixa)
+- id de localització destí. (2 - que és del vestíbul primera planta)
+- nom a id origen. (Escales de pujada a la primera planta).
+- nom a id destí. (Escales ae baixada a la planta baixa).
 
 També crearem una taula **jugadors** per a guardar el progrés d'un jugador.
 
