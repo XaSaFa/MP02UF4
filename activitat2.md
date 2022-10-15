@@ -6,12 +6,11 @@ En aquesta pràctica farem un programa de Python que es connectarà a la nostra 
 
 ### PostgreSQL:
 
-Creem una taula anomenada localitzacions, aquesta taula tindrè com a camps mínims:
+Creem una taula anomenada localitzacions, aquesta taula tindrà com a camps mínims:
 
 - id
 - nom
 - descripció
-- sortides
 
 Sobre aquesta base anirem ampliant.
 
@@ -31,6 +30,7 @@ Creem una taula **camins**, aquesta taula significa un camí d'una localització
 
 - id de localització origen.
 - id de localització destí.
+- nom
 - descripció: Què mostra el programa quan passem de l'origen al destí.
 
 També crearem una taula **jugadors** per a guardar el progrés d'un jugador.
