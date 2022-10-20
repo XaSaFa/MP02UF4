@@ -11,7 +11,9 @@ Utilitzarem la directiva ALTER TABLE per fer uns canvis a la bbdd.
 La taula localitzacions quedarà així:
 
 **id**
+
 nom
+
 descripció
 
 La taula camins quedarà així:
