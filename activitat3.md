@@ -10,18 +10,16 @@ Utilitzarem la directiva ALTER TABLE per fer uns canvis a la bbdd.
 
 La taula localitzacions quedarà així:
 
-**id**
-
-nom
-
-descripció
+- **id**
+- nom
+- descripció
 
 La taula camins quedarà així:
 
-**idOrigen**, id de localització origen. (1 - que és del vestíbol planta baixa).
-**idDestí**, de localització destí. (2 - que és del vestíbul primera planta)
-nomOrigen, nom que rep la sortida vista a id origen. (Escales de pujada a la primera planta).
-nomDestí, nom que rep la sortida vista a id destí. (Escales de baixada a la planta baixa).
+- **idOrigen**, id de localització origen. (1 - que és del vestíbol planta baixa).
+- **idDestí**, de localització destí. (2 - que és del vestíbul primera planta)
+- nomOrigen, nom que rep la sortida vista a id origen. (Escales de pujada a la primera planta).
+- nomDestí, nom que rep la sortida vista a id destí. (Escales de baixada a la planta baixa).
 
 **PREGUNTES**
 
