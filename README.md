@@ -23,8 +23,14 @@ sudo snap install pycharm-community --classic
 
 ### Activitats:
 
+#### Activitat 1 - Introducció.
+
 - [Enunciat activitat 1](activitat1.md)
-- [Enunciat activitat 2](activitat2.md)
-- [Enunciat activitat 3](activitat3.md)
+
+#### Activitat 2 - Ús de la BBDD.
+
+- [Enunciat part 1](activitat2.md)
+- [Enunciat part 2](activitat3.md)
+- [Enunciat part 3](activitat4.md)
 
 
