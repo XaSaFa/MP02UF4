@@ -33,5 +33,6 @@ sudo snap install pycharm-community --classic
 - [Enunciat part 2](activitat3.md)
 - **A partir d'aqui anem a objectius setmanals**
 - 10/11/2022 - Per al proper dia hem de tenir CRUD de Localitzacions i de Camins.
+- [Exemple CRUD](activitat4.md)
 
 
