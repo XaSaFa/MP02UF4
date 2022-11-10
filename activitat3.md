@@ -2,8 +2,6 @@
 
 En aquesta pràctica **AMPLIAREM** el programa de Python adventure que vam començar a l'activitat 2.
 
-## Fase 0:
-
 ### PostgreSQL:
 
 Utilitzarem la directiva ALTER TABLE per fer uns canvis a la bbdd.
