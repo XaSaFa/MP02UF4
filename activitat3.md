@@ -41,11 +41,11 @@ Quan un personatge **entri a una localització** o escrigui la paraula **MIRAR**
 - En color BLAU: el nom de la localització i la descripció, agafades de la taula localitzacions.
 - En color LILA: el nom corresponent a les sortides que sortin des de la localització actual.
 
-Quan un personatge escrigui les paraules **ANAR X** el programa buscará si a la localització actual hi ha el nom X com nom de sortida.
+Quan un personatge escrigui les paraules **ANAR X** el programa buscará a la taula de CAMINS si  per la localització actual hi ha alguna sortida.
 
-- De NO existir el nom a la localització actual es mostrarà un missatge d'error del estil: "No es pot anar a X.". 
+- De NO existir es mostrarà un missatge d'error del estil: "No es pot anar a X.". 
 - D'existir:
-  - El programa mourà al personatge a la localització destí modificant la taula **jugadors**.
+  - El programa mourà al personatge a la localització destí, a més de modificar la taula **jugadors**.
   - Es mostrarà nom, descripció i sortides de la localització actual.
 
 **PREGUNTES**
