@@ -2,7 +2,6 @@
 
 En aquesta pràctica farem un programa de Python que es connectarà a la nostra bbdd de PostgreSQL.
 
-## Fase 0:
 
 ### PostgreSQL:
 
@@ -23,7 +22,6 @@ Farem que la descripció d'una localització es vegi en color blau. (mira com fe
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-## Fase 1:
 
 ### PostgreSQL:
 
