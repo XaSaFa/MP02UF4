@@ -20,8 +20,6 @@ El protagonista de la aventura tindrà una serie de característiques personalit
 
 # Inventari:
 
-La taula inventari és el conjunt d'objectes que poseeix el personatge protagonista.
-
-_Quines alternatives tenim per implementar l'inventari?_ 
+Modfiquem la taula objectes afegint el camp booleà inventari, que tindrà valor veritat quan l'objecte estigui en possessió del personatge protagonista.
 
 **Restricció des de l'aplicació**: El protagonista mai podrà tenir a inventari objectes amb un pes combinat superior a la seva FOR.
